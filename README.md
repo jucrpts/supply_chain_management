@@ -44,13 +44,13 @@ Suitable for:
 - Helps users query supply chain–related information
 
 ---
-<img width="975" height="553" alt="image" src="https://github.com/user-attachments/assets/fe231709-a9ce-45a8-84f8-f5aadae3d7ff" />
+<img width="1919" height="1092" alt="Screenshot 2025-12-13 232600" src="https://github.com/user-attachments/assets/13dfed53-1b03-467a-a461-e81e582c8442" />
 
-<img width="975" height="550" alt="image" src="https://github.com/user-attachments/assets/4972d62b-1058-4be0-b0ca-fbff960f3760" />
+<img width="1919" height="1083" alt="Screenshot 2025-12-13 233033" src="https://github.com/user-attachments/assets/2f1a403b-e8eb-45fa-9de8-13a17f29dd48" />
 
-<img width="975" height="552" alt="image" src="https://github.com/user-attachments/assets/124e0d1e-df55-4f17-b680-edd57cb58ed9" />
+<img width="1919" height="1088" alt="Screenshot 2025-12-13 233209" src="https://github.com/user-attachments/assets/264b4dec-de05-47cf-bcf9-084415b4c0ed" />
 
-
+<img width="1919" height="1086" alt="Screenshot 2025-12-13 233911" src="https://github.com/user-attachments/assets/88c415c0-ccb2-47bc-943b-d0f90b039681" />
 
 
 ## Tech Stack
